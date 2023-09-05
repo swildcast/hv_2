@@ -1,0 +1,93 @@
+body{
+    color: #efeaea;;
+    margin:0;
+    padding:0;
+    background: git#c2d37a;
+    background-image: url(https://i.blogs.es/d5130c/wallpaper-2.png/1366_2000.webp);
+    background-size: 
+    font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.name{
+    width: 200%;
+    height: 300px;
+    background: 
+    
+}
+
+
+.name .content {
+    width:50%;
+    height: 50%;
+    position: absolute;
+    left:25%;
+}
+
+.name .content .p-1 {
+    color: 
+     font-family: font-family: 'Roboto Slab', serif;
+     font-family: 'Rubik Iso', cursive;;
+     font width: bolder;
+     font: size 300px;  
+
+}
+
+.name .content .p-2 {
+    color: rgb(241, 233, 233);
+     font-family: font-family: 'Roboto Slab', serif;
+     font-family: 'Rubik Iso', cursive;;
+     font width: bolder;
+     font: size 35px;
+}
+
+.name .img {
+    position: absolute;
+    top: 8%;
+    right: 5%;
+    width: 180px; 
+    height: 180px;
+    border-radius: 100%;
+    overflow: hidden;
+}
+.name .img img{
+    width: 150px; 
+    height: 220px; 
+    
+}
+
+.info {
+ width:90%;
+ height:auto;
+ background: ;
+ margin:5% auto;
+ padding: 20px;   
+}
+
+.info .Tituloseccion {
+    color:#e7e8f0
+    font-family: font-family: 'Roboto Slab', serif;
+    font-size: xx-large;
+    text-align: center
+    font-weight:  bolder;
+    border-bottom: 2px; white 
+
+}
+
+.info .Tituloinfo{
+    color:bisque
+    font-family: font-family: 'Roboto Slab', serif;
+    font-weight: bolder
+    font-size: large;
+    display: inline;
+    margin: right 20px; 
+}
+
+.info .Infoinfo {
+    color:rgb(249, 240, 240)
+    font-family: font-family: 'Roboto Slab', serif;
+    font-weight: bolder
+    font-size:large;
+    display: inline;
+    
+
+}
+    
